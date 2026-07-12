@@ -1,9 +1,10 @@
-_______________________________
-***Hi there 👋,*** 
- 
-# 🔮               I'm Hrishikesh Anand
+----
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header" width="100%"/>
+
+ ***Hi there 👋,*** 
+
+ <h2 align="center"><strong> 🔮  I'm Hrishikesh Anand  </strong></h2> 
 </p>
 
 -----
@@ -20,6 +21,8 @@ Transforming raw data into actionable business insights through analysis, visual
 </p>
 
 _____
+
+
 ---
 
 ## 🪪 About Me
