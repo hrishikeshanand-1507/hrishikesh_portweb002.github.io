@@ -1,24 +1,80 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== Background ===== */
 body {
-    background: #1A365D;
-    color: #F8FAFC;
+    background: #0B1F3A;
+    color: #F5F5F0;
 }
 
+/* Content */
+.wrapper,
+section {
+    background: transparent;
+    color: #F5F5F0;
+}
+
+/* Sidebar */
 header {
-    background: #234E70;
+    background: #13294B;
+    color: #F5F5F0;
+    padding: 20px;
+    border-radius: 12px;
 }
 
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
     color: #FFFFFF;
 }
 
-p, li, span {
-    color: #DCE6F2;
+/* Paragraphs & Lists */
+p,
+li,
+span {
+    color: #D6D9E0;
 }
 
+/* Links */
 a {
-    color: #7DD3FC;
+    color: #64B5F6;
+    text-decoration: none;
+    transition: 0.3s ease;
 }
 
 a:hover {
-    color: #BAE6FD;
+    color: #90CAF9;
+}
+
+/* Code */
+pre,
+code {
+    background: #13294B;
+    color: #F5F5F0;
+    border: 1px solid #2A4365;
+}
+
+/* Tables */
+table {
+    color: #F5F5F0;
+}
+
+th {
+    background: #13294B;
+}
+
+td {
+    border-color: #2A4365;
+}
+
+/* Footer */
+footer {
+    color: #D6D9E0;
+}
+
+/* Blockquote */
+blockquote {
+    border-left: 4px solid #64B5F6;
+    color: #D6D9E0;
 }
