@@ -3,88 +3,78 @@
 
 @import "{{ site.theme }}";
 
-/* ===== Page Background ===== */
+/* ===== Background ===== */
 body {
-    background: #0d1117;
-    color: #ffffff;
+    background: #0B1F3A;
+    color: #F5F5F0;
 }
 
-/* Content Area */
+/* Content */
 .wrapper,
 section {
     background: transparent;
-    color: #ffffff;
+    color: #F5F5F0;
 }
 
-/* Sidebar/Header */
+/* Sidebar */
 header {
-    background: #161b22;
-    color: #ffffff;
+    background: #13294B;
+    color: #F5F5F0;
+    padding: 20px;
+    border-radius: 12px;
 }
 
-/* All Headings */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
+    color: #FFFFFF;
 }
 
-/* Paragraphs, Lists, Labels */
+/* Paragraphs & Lists */
 p,
 li,
-span,
-label {
-    color: #ffffff;
+span {
+    color: #D6D9E0;
 }
 
 /* Links */
 a {
-    color: #58a6ff;
+    color: #64B5F6;
     text-decoration: none;
+    transition: 0.3s ease;
 }
 
 a:hover {
-    color: #79c0ff;
+    color: #90CAF9;
 }
 
-/* Code Blocks */
+/* Code */
 pre,
 code {
-    background: #1e293b;
-    color: #ffffff;
-    border: 1px solid #334155;
+    background: #13294B;
+    color: #F5F5F0;
+    border: 1px solid #2A4365;
 }
 
 /* Tables */
 table {
-    color: #ffffff;
+    color: #F5F5F0;
 }
 
 th {
-    background: #1e293b;
-    color: #ffffff;
+    background: #13294B;
 }
 
 td {
-    border-color: #334155;
-}
-
-/* Blockquotes */
-blockquote {
-    color: #d1d5db;
-    border-left: 4px solid #58a6ff;
-}
-
-/* Horizontal Line */
-hr {
-    border-color: #334155;
+    border-color: #2A4365;
 }
 
 /* Footer */
 footer {
-    color: #cbd5e1;
+    color: #D6D9E0;
 }
 
-/* Strong & Bold Text */
-strong,
-b {
-    color: #ffffff;
+/* Blockquote */
+blockquote {
+    border-left: 4px solid #64B5F6;
+    color: #D6D9E0;
 }
