@@ -133,8 +133,6 @@ June 2023 – April 2024
 
 ---
 
----
-
 # 📂 Featured Projects
 
 Here are some of the projects you'll find in this repository:
@@ -159,20 +157,20 @@ Here are some of the projects you'll find in this repository:
 
 ---
 
+---
 # 🤝 Let's Connect
 
 📧 Email: [Gmail]
-hrishikeshanandfresher@gmail.com
+- hrishikeshanandfresher@gmail.com
 
-💼 LinkedIn:
-## Connect with Me
+
+## Connect with Me @ 💼 LinkedIn:
 - [LinkedIn]🔗 **LinkedIn:** <https://www.linkedin.com/in/hrishikesh-anand-897b31220/>
 ---
 
 ## 💡 Quote
 
-> "Without data, you're just another person with an opinion."
+>**"Turning data into actionable insights that drive smarter decisions and measurable business impact."**
 
 ---
 
-⭐ If you like my work, don't forget to **Star** this repository!
