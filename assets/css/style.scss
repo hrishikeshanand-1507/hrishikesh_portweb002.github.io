@@ -3,106 +3,88 @@
 
 @import "{{ site.theme }}";
 
-/* ===========================
-   Deep Navy Portfolio Theme
-   =========================== */
-
+/* ===== Page Background ===== */
 body {
-    background: #162B4D;
-    color: #F5F5F0;
-    line-height: 1.7;
+    background: #0d1117;
+    color: #ffffff;
 }
 
-/* Main Content */
+/* Content Area */
 .wrapper,
 section {
     background: transparent;
-    color: #F5F5F0;
+    color: #ffffff;
 }
 
-/* Sidebar / Header */
+/* Sidebar/Header */
 header {
-    background: #1E3A5F;
-    color: #F5F5F0;
-    padding: 20px;
-    border-radius: 12px;
+    background: #161b22;
+    color: #ffffff;
 }
 
-/* Headings */
+/* All Headings */
 h1, h2, h3, h4, h5, h6 {
-    color: #FFFFFF;
-    font-weight: 700;
+    color: #ffffff;
 }
 
-/* Text */
+/* Paragraphs, Lists, Labels */
 p,
 li,
 span,
-td,
-th {
-    color: #ECEBE4;
+label {
+    color: #ffffff;
 }
 
 /* Links */
 a {
-    color: #7CC7FF;
+    color: #58a6ff;
     text-decoration: none;
-    transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #A8DDFF;
-}
-
-/* Strong Text */
-strong,
-b {
-    color: #FFFFFF;
+    color: #79c0ff;
 }
 
 /* Code Blocks */
 pre,
 code {
-    background: #203B63;
-    color: #F5F5F0;
-    border: 1px solid #355A88;
-    border-radius: 6px;
+    background: #1e293b;
+    color: #ffffff;
+    border: 1px solid #334155;
 }
 
 /* Tables */
 table {
-    border-collapse: collapse;
-    width: 100%;
+    color: #ffffff;
 }
 
 th {
-    background: #203B63;
+    background: #1e293b;
+    color: #ffffff;
 }
 
-td,
-th {
-    border: 1px solid #355A88;
-    padding: 10px;
+td {
+    border-color: #334155;
 }
 
 /* Blockquotes */
 blockquote {
-    color: #D8E3F0;
-    border-left: 4px solid #7CC7FF;
-    padding-left: 15px;
+    color: #d1d5db;
+    border-left: 4px solid #58a6ff;
 }
 
-/* Horizontal Rule */
+/* Horizontal Line */
 hr {
-    border: 1px solid #355A88;
+    border-color: #334155;
 }
 
 /* Footer */
 footer {
-    color: #D8E3F0;
+    color: #cbd5e1;
 }
 
-/* Images */
-img {
-    border-radius: 8px;
+/* Strong & Bold Text */
+strong,
+b {
+    color: #ffffff;
 }
