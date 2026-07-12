@@ -192,5 +192,5 @@ Here are some of the projects you'll find in this repository:
 
 >**"Turning data into actionable insights that drive smarter decisions and measurable business impact."**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" width="100%"/>
 
