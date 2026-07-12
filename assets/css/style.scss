@@ -89,30 +89,4 @@ b {
     color: #ffffff;
 }
 
-/*description of config file
-.site-description {
-    font-size: 1.3rem;
-    font-weight: 500;
-    color: #e8edf2;              /* Off-white */
-    letter-spacing: 1px;
-    line-height: 1.7;
-    margin-top: 12px;
-    margin-bottom: 20px;
-    text-align: center;
 
-    /* Fade-in animation */
-    opacity: 0;
-    transform: translateY(12px);
-    animation: fadeInUp 1s ease forwards;
-}
-
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(12px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
