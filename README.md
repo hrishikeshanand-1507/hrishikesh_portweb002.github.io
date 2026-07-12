@@ -133,16 +133,6 @@ June 2023 – April 2024
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshanand-1507.github.io&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshanand-1507.github.io&layout=compact&theme=tokyonight)
-
-</p>
-
 ---
 
 # 📂 Featured Projects
@@ -171,8 +161,8 @@ Here are some of the projects you'll find in this repository:
 
 # 🤝 Let's Connect
 
-📧 Email: 
-- [Gmail](hrishikeshanandfresher@gmail.com)
+📧 Email: [Gmail]
+hrishikeshanandfresher@gmail.com
 
 💼 LinkedIn:
 ## Connect with Me
