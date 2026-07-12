@@ -12,9 +12,11 @@ Transforming raw data into actionable business insights through analysis, visual
 
 I'm a **Data Analyst** with professional experience in transforming raw operational data into meaningful business insights.
 
-Currently, I work as a **Data & Operations Analyst** at **Vishwakarma Transporting Enterprises Pvt. Ltd.**, where I clean, analyze, and visualize transportation and financial datasets using Excel, Python, SQL, and Power BI.
+Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transporting Enterprises Pvt. Ltd.**. Within this company my work is; 
 
-I enjoy solving business problems using data and continuously improving my analytical skills.
+- To clean, analyze, and visualize transportation and financial datasets using Excel, Python, and Power BI.
+
+<h4> Am passionate in solving business problems for decision making insights by using raw data, as transforming it into meaningfull data dashboards and continuously improving analytical skills of mine by contributing my efforts to the company growth.
 
 ---
 
