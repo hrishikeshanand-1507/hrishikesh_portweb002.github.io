@@ -171,10 +171,12 @@ Here are some of the projects you'll find in this repository:
 
 # 🤝 Let's Connect
 
-📧 Email: **hrishikeshanandfresher@gmail.com**
+📧 Email: 
+- [Gmail](hrishikeshanandfresher@gmail.com)
 
 💼 LinkedIn:
-https://www.linkedin.com/in/hrishikesh-anand-897b31220/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlGaurtRATmiIRZjC%2FHo53Q%3D%3D
+## Connect with Me
+- [LinkedIn](linkedin.com/in/hrishikesh-anand-897b31220)
 ---
 
 ## 💡 Quote
