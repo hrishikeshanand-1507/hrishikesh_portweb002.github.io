@@ -176,7 +176,7 @@ Here are some of the projects you'll find in this repository:
 
 💼 LinkedIn:
 ## Connect with Me
-- [LinkedIn](linkedin.com/in/hrishikesh-anand-897b31220)
+- [LinkedIn]🔗 **LinkedIn:** <https://www.linkedin.com/in/hrishikesh-anand-897b31220/>
 ---
 
 ## 💡 Quote
