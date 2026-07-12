@@ -8,7 +8,7 @@ Transforming raw data into actionable business insights through analysis, visual
 
 ----
 
-## 👨‍💻 About Me
+## 🪪 About Me
 
 I'm a **Data Analyst** with professional experience in transforming raw operational data into meaningful business insights.
 
