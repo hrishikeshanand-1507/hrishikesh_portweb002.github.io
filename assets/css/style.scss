@@ -1,3 +1,55 @@
-assets/
-└── css/
-    └── style.scss
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Background */
+body {
+    background: #0d1117;
+    color: #e6edf3;
+}
+
+/* Main content */
+.wrapper {
+    background: #161b22;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #58a6ff;
+}
+
+/* Links */
+a {
+    color: #58a6ff;
+}
+
+a:hover {
+    color: #79c0ff;
+}
+
+/* Sidebar */
+header {
+    background: #161b22;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    color: #8b949e;
+}
+
+/* Code blocks */
+pre, code {
+    background: #21262d;
+    color: #f0f6fc;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid #58a6ff;
+    color: #c9d1d9;
+}
