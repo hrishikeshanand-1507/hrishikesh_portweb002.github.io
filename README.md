@@ -2,14 +2,15 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header" width="100%"/>
 
- ***Hi there 👋,*** 
 
- <h2 align="center"><strong> 🔮  I'm Hrishikesh Anand  </strong></h2> 
+**Hi there 👋,**
+
+ <h2 align="center"><strong> <width="100%"> 🔮  I'm Hrishikesh Anand </width="100%"> </strong></h2> 
 </p>
 
 -----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Enthusiast;Passionate+Data+Analyst;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Transformation+%26+Data+Visualization;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Enthusiast;Passionate+Data+Analyst;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Transformation+%26+Data+Visualization;Always+Learning+New+Technologies" alt="Typing SVG" width="100%"/>
 </p>
 
 ______________________________
