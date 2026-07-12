@@ -3,22 +3,26 @@
 
 @import "{{ site.theme }}";
 
-/* ===== Background ===== */
+/* ===========================
+   Deep Navy Portfolio Theme
+   =========================== */
+
 body {
-    background: #0B1F3A;
+    background: #162B4D;
     color: #F5F5F0;
+    line-height: 1.7;
 }
 
-/* Content */
+/* Main Content */
 .wrapper,
 section {
     background: transparent;
     color: #F5F5F0;
 }
 
-/* Sidebar */
+/* Sidebar / Header */
 header {
-    background: #13294B;
+    background: #1E3A5F;
     color: #F5F5F0;
     padding: 20px;
     border-radius: 12px;
@@ -27,54 +31,78 @@ header {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
     color: #FFFFFF;
+    font-weight: 700;
 }
 
-/* Paragraphs & Lists */
+/* Text */
 p,
 li,
-span {
-    color: #D6D9E0;
+span,
+td,
+th {
+    color: #ECEBE4;
 }
 
 /* Links */
 a {
-    color: #64B5F6;
+    color: #7CC7FF;
     text-decoration: none;
-    transition: 0.3s ease;
+    transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #90CAF9;
+    color: #A8DDFF;
 }
 
-/* Code */
+/* Strong Text */
+strong,
+b {
+    color: #FFFFFF;
+}
+
+/* Code Blocks */
 pre,
 code {
-    background: #13294B;
+    background: #203B63;
     color: #F5F5F0;
-    border: 1px solid #2A4365;
+    border: 1px solid #355A88;
+    border-radius: 6px;
 }
 
 /* Tables */
 table {
-    color: #F5F5F0;
+    border-collapse: collapse;
+    width: 100%;
 }
 
 th {
-    background: #13294B;
+    background: #203B63;
 }
 
-td {
-    border-color: #2A4365;
+td,
+th {
+    border: 1px solid #355A88;
+    padding: 10px;
+}
+
+/* Blockquotes */
+blockquote {
+    color: #D8E3F0;
+    border-left: 4px solid #7CC7FF;
+    padding-left: 15px;
+}
+
+/* Horizontal Rule */
+hr {
+    border: 1px solid #355A88;
 }
 
 /* Footer */
 footer {
-    color: #D6D9E0;
+    color: #D8E3F0;
 }
 
-/* Blockquote */
-blockquote {
-    border-left: 4px solid #64B5F6;
-    color: #D6D9E0;
+/* Images */
+img {
+    border-radius: 8px;
 }
