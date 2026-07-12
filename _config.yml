@@ -7,3 +7,5 @@ theme: jekyll-theme-minimal
 ## description: DATA [Cleaning, Analyzing, Summarizing, Visualizing]
 ## show_downloads: true
 ## google_analytics:
+github:
+  is_project_page: false
