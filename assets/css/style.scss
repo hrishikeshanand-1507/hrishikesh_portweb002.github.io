@@ -1,80 +1,20 @@
----
----
-
-@import "{{ site.theme }}";
-
-/* ===== Background ===== */
 body {
-    background: #0B1F3A;
-    color: #F5F5F0;
+    background: #1E3A5F;
+    color: #F8F9FA;
 }
 
-/* Content */
-.wrapper,
-section {
-    background: transparent;
-    color: #F5F5F0;
-}
-
-/* Sidebar */
 header {
-    background: #13294B;
-    color: #F5F5F0;
-    padding: 20px;
-    border-radius: 12px;
+    background: #274C77;
 }
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-    color: #FFFFFF;
+p, li {
+    color: #E8ECF1;
 }
 
-/* Paragraphs & Lists */
-p,
-li,
-span {
-    color: #D6D9E0;
-}
-
-/* Links */
 a {
-    color: #64B5F6;
-    text-decoration: none;
-    transition: 0.3s ease;
+    color: #8CC8FF;
 }
 
 a:hover {
-    color: #90CAF9;
-}
-
-/* Code */
-pre,
-code {
-    background: #13294B;
-    color: #F5F5F0;
-    border: 1px solid #2A4365;
-}
-
-/* Tables */
-table {
-    color: #F5F5F0;
-}
-
-th {
-    background: #13294B;
-}
-
-td {
-    border-color: #2A4365;
-}
-
-/* Footer */
-footer {
-    color: #D6D9E0;
-}
-
-/* Blockquote */
-blockquote {
-    border-left: 4px solid #64B5F6;
-    color: #D6D9E0;
+    color: #B8E1FF;
 }
