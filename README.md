@@ -1,68 +1,185 @@
-# Hi, I'm Hrishikesh Anand 👋
+# Hi there 👋, I'm Hrishikesh Anand
 
-📍 Bokaro Steel City, India
+<h3 align="center">Data Analyst | Excel Expert | Python | SQL | Power BI</h3>
 
-Turning raw data into actionable decision-making insights — 
-
-**Cleaning, Analyzing, Summarizing, Visualizing.**
-
----
-
-## 🚀 About Me
-
-I'm a Data & Operations Analyst with hands-on experience managing end-to-end data lifecycles — from cleaning and consolidating raw datasets to building dynamic dashboards that drive business decisions. My background spans customer support, data entry, and now operational analytics, giving me a well-rounded view of how data moves through an organization from the ground up.
-
-I'm passionate about transforming messy, raw data into clear, professional insights that help teams make informed decisions.
+<p align="center">
+Transforming raw data into actionable business insights through analysis, visualization, and automation.
+</p>
 
 ---
 
-## 🛠️ Top Skills
+## 👨‍💻 About Me
 
-- **Data Analysis**
-- **Data Science**
-- **Computer Science**
-- Microsoft Excel (dashboards, KPIs, dynamic reporting)
-- Python (Pandas, NumPy) — data cleaning, handling nulls & duplicates
+I'm a **Data Analyst** with professional experience in transforming raw operational data into meaningful business insights.
 
----
+Currently, I work as a **Data & Operations Analyst** at **Vishwakarma Transporting Enterprises Pvt. Ltd.**, where I clean, analyze, and visualize transportation and financial datasets using Excel, Python, SQL, and Power BI.
 
-## 📜 Certifications
-
-- IBM Data Science Foundation
-- Python for Data Science — *IBM*
-- Cisco Data Science Essential with Python
+I enjoy solving business problems using data and continuously improving my analytical skills.
 
 ---
 
-## 💼 Experience
+## 🚀 Current Role
 
-### Data & Operations Analyst
-**Vishwakarma Transporting Enterprises Pvt. Ltd.** · Feb 2025 – Present · Bokaro Steel City, Jharkhand, India
-- Manage the daily end-to-end data lifecycle for transport operations
-- Clean, consolidate, and analyze vehicle dispatch/arrival timelines, order statuses, client billing, and disbursement data
-- Design and maintain dynamic, interactive Excel dashboards for KPIs and financial metrics
-- Translate complex logistical data into polished reports for management decision-making
-- **Tools:** Microsoft Excel, Python (Pandas, NumPy)
+**Data & Operations Analyst**
+📍 Vishwakarma Transporting Enterprises Pvt. Ltd.
+📅 February 2025 – Present
+
+### Responsibilities
+
+- Data Cleaning & Validation
+- Excel Dashboard Development
+- Business Reporting
+- KPI Monitoring
+- Transport Operations Analysis
+- Financial Data Analysis
+- Process Automation
+- Daily Performance Reporting
+
+---
+
+## 💼 Previous Experience
 
 ### Customer Support Executive
-**Concentrix Daksh Services India Pvt. Ltd.** · Jun 2023 – Apr 2024 · Ranchi
-- Resolved customer queries via chat and outbound calls
-- Updated customer details on Tata Motors' official CRM
+**Concentrix Daksh Services India Pvt. Ltd.**
+June 2023 – April 2024
+
+- Customer query resolution
+- CRM management
+- Chat & outbound support
+- Process documentation
 
 ### Data Entry Operator
-**Birsa Computer Saksharta Mission (BCSM)** · Aug 2017 – Mar 2018 · Bokaro Steel City
-- Maintained student records including payment details and academic session scores
+**Birsa Computer Saksharta Mission (BCSM)**
+
+- Student database management
+- Payment records maintenance
+- Excel documentation
 
 ---
 
-## 🎓 Education
+# 🛠 Skills
 
-- **B.Com (Honors)** — Binod Bihari Mahto Koyalanchal University (BBMKU), Dhanbad *(2019 – 2022)*
-- **Intermediate Degree, Science** — S. L. Arya Inter College, Tupkadih *(2017 – 2019)*
+## Data Analytics
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+
+## Microsoft Excel
+
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- XLOOKUP
+- VLOOKUP
+- HLOOKUP
+- INDEX & MATCH
+- FILTER
+- SORT
+- Conditional Formatting
+- Dashboard Creation
+
+## Programming
+
+- Python
+  - Pandas
+  - NumPy
+- PostgreSQL
+- SQL
+
+## BI Tools
+
+- Power BI
+- Microsoft Excel
 
 ---
 
-## 📫 Get in Touch
+# 📚 Education
 
-- ✉️ Email: hrishikeshanandfresher@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/hrishikeshanand-897b31220](https://www.linkedin.com/in/hrishikeshanand-897b31220)
+### 🎓 Master of Business Administration (MBA)
+**Indira Gandhi National Open University (IGNOU)**
+*Banking & Finance* *(Pursuing)*
+
+### 🎓 Bachelor of Commerce (Honours)
+**Binod Bihari Mahto Koyalanchal University (BBMKU)**
+
+### 🎓 Intermediate (Science - Computer Science)
+
+---
+
+# 📜 Certifications
+
+- IBM Data Science Foundation
+- Python for Data Science (IBM)
+- Cisco Data Science Essentials with Python
+
+---
+
+# 📊 What I Work With
+
+- Excel Automation
+- Data Cleaning
+- Dashboard Design
+- Business Reporting
+- SQL Queries
+- Python Data Analysis
+- Power BI Reports
+- Data Transformation
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshanand-1507.github.io&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshanand-1507.github.io&layout=compact&theme=tokyonight)
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+Here are some of the projects you'll find in this repository:
+
+- 📊 Excel Dashboards
+- 📈 Power BI Dashboards
+- 🐍 Python Data Analysis
+- 🗄 SQL Projects
+- 📉 Business Analytics
+- 📋 Data Cleaning Projects
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Machine Learning
+- Data Engineering
+- Statistical Analysis
+- Advanced Power BI
+- Python Automation
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: **hrishikeshanand0000@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/hrishikesh-anand-897b31220/
+
+---
+
+## 💡 Quote
+
+> "Without data, you're just another person with an opinion."
+
+---
+
+⭐ If you like my work, don't forget to **Star** this repository!
