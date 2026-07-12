@@ -2,7 +2,9 @@
 
 📍 Bokaro Steel City, India
 
-Turning raw data into actionable decision-making insights — **Cleaning, Analyzing, Summarizing, Visualizing.**
+Turning raw data into actionable decision-making insights — 
+
+**Cleaning, Analyzing, Summarizing, Visualizing.**
 
 ---
 
