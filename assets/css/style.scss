@@ -3,53 +3,88 @@
 
 @import "{{ site.theme }}";
 
-/* Background */
+/* ===== Page Background ===== */
 body {
     background: #0d1117;
-    color: #e6edf3;
+    color: #ffffff;
 }
 
-/* Main content */
-.wrapper {
+/* Content Area */
+.wrapper,
+section {
+    background: transparent;
+    color: #ffffff;
+}
+
+/* Sidebar/Header */
+header {
     background: #161b22;
-    border-radius: 12px;
-    padding: 30px;
+    color: #ffffff;
 }
 
-/* Headings */
+/* All Headings */
 h1, h2, h3, h4, h5, h6 {
-    color: #58a6ff;
+    color: #ffffff;
+}
+
+/* Paragraphs, Lists, Labels */
+p,
+li,
+span,
+label {
+    color: #ffffff;
 }
 
 /* Links */
 a {
     color: #58a6ff;
+    text-decoration: none;
 }
 
 a:hover {
     color: #79c0ff;
 }
 
-/* Sidebar */
-header {
-    background: #161b22;
-    padding: 20px;
-    border-radius: 10px;
+/* Code Blocks */
+pre,
+code {
+    background: #1e293b;
+    color: #ffffff;
+    border: 1px solid #334155;
 }
 
-/* Footer */
-footer {
-    color: #8b949e;
+/* Tables */
+table {
+    color: #ffffff;
 }
 
-/* Code blocks */
-pre, code {
-    background: #21262d;
-    color: #f0f6fc;
+th {
+    background: #1e293b;
+    color: #ffffff;
+}
+
+td {
+    border-color: #334155;
 }
 
 /* Blockquotes */
 blockquote {
+    color: #d1d5db;
     border-left: 4px solid #58a6ff;
-    color: #c9d1d9;
+}
+
+/* Horizontal Line */
+hr {
+    border-color: #334155;
+}
+
+/* Footer */
+footer {
+    color: #cbd5e1;
+}
+
+/* Strong & Bold Text */
+strong,
+b {
+    color: #ffffff;
 }
