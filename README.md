@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Hrishikesh Anand
+_______________________________
+***Hi there 👋,*** 
+ 
+# 🔮              I'm Hrishikesh Anand
 
 <h3 align="center">Data Analyst | Excel Expert | Python | SQL | Power BI</h3>
 
@@ -6,7 +9,8 @@
 Transforming raw data into actionable business insights through analysis, visualization, and automation.
 </p>
 
-----
+_____
+---
 
 ## 🪪 About Me
 
@@ -20,7 +24,7 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 
 ----
 
-## 🚀 Current Role
+## 📰 Current Role
 
 **Data & Operations Analyst**
 📍 Vishwakarma Transporting Enterprises Pvt. Ltd.
@@ -158,14 +162,16 @@ Here are some of the projects you'll find in this repository:
 ---
 
 ---
-# 🤝 Let's Connect
+# 🪩 Let's Connect
 
 📧 Email: [Gmail]
-    **hrishikeshanandfresher@gmail.com**
+
+🔗    **hrishikeshanandfresher@gmail.com**
 
 
-## Connect with Me @ 💼 LinkedIn:
-- [LinkedIn]🔗 **LinkedIn:**
+## Connect with Me @ 🛡️LinkedIn:
+- 🔗 [LinkedIn] **LinkedIn:**
+
     <https://www.linkedin.com/in/hrishikesh-anand-897b31220/>
 ---
 
