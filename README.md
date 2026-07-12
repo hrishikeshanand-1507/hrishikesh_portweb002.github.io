@@ -164,7 +164,7 @@ Here are some of the projects you'll find in this repository:
 ---
 # 🪩 Let's Connect
 
-📧 Email: [Gmail]
+**📧 Gmail:**
 
 🔗    **hrishikeshanandfresher@gmail.com**
 
