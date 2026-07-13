@@ -1,0 +1,34 @@
+<p id="live-clock" style="
+font-size:18px;
+font-weight:600;
+color:#4ADE80;
+font-family:monospace;">
+Loading...
+</p>
+<script>
+function updateClock() {
+    const now = new Date();
+
+    const days = [
+        "Sunday","Monday","Tuesday",
+        "Wednesday","Thursday",
+        "Friday","Saturday"
+    ];
+
+    const options = {
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+    };
+
+    const date = now.toLocaleDateString("en-US", options);
+    const day = days[now.getDay()];
+    const time = now.toLocaleTimeString();
+
+    document.getElementById("live-clock").innerHTML =
+        `📅 ${date}<br>📆 ${day}<br>⏰ ${time}`;
+}
+
+updateClock();
+setInterval(updateClock, 1000);
+</script>
