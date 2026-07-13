@@ -196,7 +196,7 @@ Here are some of the projects you'll find in this repository:
 ## Connect with Me @ 🛡️LinkedIn:
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-    <https://www.linkedin.com/in/hrishikesh-anand-897b31220/>
+  <https://www.linkedin.com/in/hrishikesh-anand-897b31220/>
 ---
 
 ## 💡 Quote
