@@ -88,7 +88,7 @@ June 2023 – April 2024
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-____
+##
 
 <p align="left">
   <img src="https://img.shields.io/badge/DATA%20%20ANALYTICS-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
@@ -103,7 +103,7 @@ ____
 - Business Intelligence
 - KPI Reporting
 
-____
+##
 
 <p align="left">
   <img src="https://img.shields.io/badge/EXCEL-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
@@ -121,7 +121,7 @@ ____
 - Conditional Formatting
 - Dashboard Creation
 
-____
+##
 
 <p align="left">
   <img src="https://img.shields.io/badge/PROGRAMMING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
@@ -133,7 +133,7 @@ ____
 - PostgreSQL
 - SQL
 
-____
+##
 
 <p align="left">
   <img src="https://img.shields.io/badge/DASHBOARDING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
@@ -144,7 +144,7 @@ ____
 
 ---
 
-# 📚 Education
+## 📚 Education
 
 ### 🎓 Master of Business Administration (MBA)
 **Indira Gandhi National Open University (IGNOU)**
