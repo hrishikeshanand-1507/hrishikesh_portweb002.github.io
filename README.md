@@ -89,7 +89,7 @@ June 2023 – April 2024
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-##
+#
 
 <p align="left">
   <img src="https://img.shields.io/badge/DATA%20%20ANALYTICS-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
@@ -105,7 +105,7 @@ June 2023 – April 2024
 - KPI Reporting
 
 
-##
+#
 
 <p align="left">
   <img src="https://img.shields.io/badge/EXCEL-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
@@ -124,7 +124,7 @@ June 2023 – April 2024
 - Dashboard Creation
 
 
-##
+#
 
 <p align="left">
   <img src="https://img.shields.io/badge/PROGRAMMING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
@@ -137,7 +137,7 @@ June 2023 – April 2024
 - SQL
 
 
-##
+#
 
 <p align="left">
   <img src="https://img.shields.io/badge/DASHBOARDING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
