@@ -91,6 +91,7 @@ June 2023 – April 2024
 
 #
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/DATA%20%20ANALYTICS-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
 </p>
@@ -107,9 +108,11 @@ June 2023 – April 2024
 
 #
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/EXCEL-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
 </p>
+
 
 - Pivot Tables
 - Pivot Charts
@@ -126,9 +129,11 @@ June 2023 – April 2024
 
 #
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/PROGRAMMING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
 </p>
+
 
 - Python
   - Pandas
@@ -139,9 +144,11 @@ June 2023 – April 2024
 
 #
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/DASHBOARDING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
 </p>
+
 
 - Power BI
 - Microsoft Excel
