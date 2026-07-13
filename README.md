@@ -88,6 +88,7 @@ June 2023 – April 2024
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+
 ##
 
 <p align="left">
@@ -102,6 +103,7 @@ June 2023 – April 2024
 - Dashboard Development
 - Business Intelligence
 - KPI Reporting
+
 
 ##
 
@@ -121,6 +123,7 @@ June 2023 – April 2024
 - Conditional Formatting
 - Dashboard Creation
 
+
 ##
 
 <p align="left">
@@ -132,6 +135,7 @@ June 2023 – April 2024
   - NumPy
 - PostgreSQL
 - SQL
+
 
 ##
 
