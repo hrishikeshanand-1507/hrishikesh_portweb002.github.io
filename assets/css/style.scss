@@ -89,4 +89,13 @@ b {
     color: #ffffff;
 }
 
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the footer */
+footer {
+    display: none;
+}
 
