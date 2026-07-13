@@ -1,5 +1,5 @@
 ## title: Minimal theme
-title: HRISHIKESH ANAND 
+title: HRISHIKESH..ANAND 
 ## logo: /assets/img/logo.png
 logo: Images/HA_DP_.png
 theme: jekyll-theme-minimal
@@ -10,3 +10,4 @@ theme: jekyll-theme-minimal
 ## google_analytics:
 github:
   is_project_page: false
+  footer: false
