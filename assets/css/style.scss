@@ -1,12 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
-/* Hide the entire footer */
-footer {
-  display: none !important;
-}
 
 ---
 ---
@@ -18,6 +9,11 @@ body {
     background: #0d1117;
     color: #ffffff;
 }
+/* Hide the entire footer */
+footer {
+  display: none !important;
+}
+
 
 /* Content Area */
 .wrapper,
