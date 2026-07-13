@@ -1,18 +1,18 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=80&section=header" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=header" width="100%"/>
 </p>
 
------
 
-**Hi there 👋,**
+**Hi there 👋,** *I'm . . . .*
 
  <p>
-<h2 align="center"><strong> 🔮  I'm Hrishikesh Anand  </strong></h2> 
+<h1 align="center"> <strong>      Hrishikesh Anand  </strong></h1> 
 </p>
 
 -----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=800&lines=Data+Enthusiast;Passionate+Data+Analyst;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Transformation+%26+Data+Visualization;Always+Learning+New+Technologies" alt="Typing SVG" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=900&lines=Data+Enthusiast+.+.+.+.;Passionate+Data+Analyst+.+.+.+.;Turning+Complex+Data+into+Clear+Insights;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Transformation+%26+Data+Visualization;Continuous+Learning"
+    alt="Typing SVG"/>
 </p>
 
 
@@ -169,11 +169,12 @@ Here are some of the projects you'll find in this repository:
 # 🌱 Currently Learning
 
 - Advanced SQL
-- Machine Learning
 - Data Engineering
 - Statistical Analysis
 - Advanced Power BI
 - Python Automation
+- Tableau Dashbording
+- GitHub 
 
 ---
 
