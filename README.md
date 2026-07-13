@@ -9,7 +9,13 @@
 <h1 align="center"> <strong>      Hrishikesh Anand  </strong></h1> 
 </p>
 
------
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,100:3B82F6" width="100%">
+</p>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=900&lines=Data+Enthusiast+.+.+.+.;Passionate+Data+Analyst+.+.+.+.;Turning+Complex+Data+into+Clear+Insights;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Transformation+%26+Data+Visualization;Continuous+Learning"
     alt="Typing SVG"/>
@@ -23,10 +29,14 @@
 Transforming raw data into actionable business insights through analysis, visualization, and automation.
 </p>
 
-_____
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
+</p>
 
 
----
+
+
 
 ## 🪪 About Me
 
@@ -38,7 +48,12 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 
 **Am passionate in solving business problems for decision making insights by using raw data, as transforming it into meaningfull data dashboards and continuously improving analytical skills of mine by contributing my efforts to the company growth.**
 
-----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
+</p>
+
+
 
 ## 📰 Current Role
 
@@ -57,7 +72,11 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 - Process Automation
 - Daily Performance Reporting
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
+</p>
+
 
 ## 💼 Previous Experience
 
@@ -70,6 +89,8 @@ June 2023 – April 2024
 - Chat & outbound support
 - Process documentation
 
+<hr>
+
 ### Data Entry Operator
 **Birsa Computer Saksharta Mission (BCSM)**
 
@@ -77,7 +98,11 @@ June 2023 – April 2024
 - Payment records maintenance
 - Excel documentation
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
+</p>
+
 
 ## 🛠 Skills
 
@@ -89,7 +114,7 @@ June 2023 – April 2024
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-#
+<hr>
 
 
 <p align="left">
@@ -106,7 +131,7 @@ June 2023 – April 2024
 - KPI Reporting
 
 
-#
+<hr>
 
 
 <p align="left">
@@ -127,7 +152,7 @@ June 2023 – April 2024
 - Dashboard Creation
 
 
-#
+<hr>
 
 
 <p align="left">
@@ -142,7 +167,7 @@ June 2023 – April 2024
 - SQL
 
 
-#
+<hr>
 
 
 <p align="left">
@@ -153,7 +178,11 @@ June 2023 – April 2024
 - Power BI
 - Microsoft Excel
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
+</p>
+
 
 ## 📚 Education
 
@@ -166,7 +195,11 @@ June 2023 – April 2024
 
 ### 🎓 Intermediate (Science - Computer Science)
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
+</p>
+
 
 # 📜 Certifications
 
@@ -174,7 +207,11 @@ June 2023 – April 2024
 - Python for Data Science (IBM)
 - Cisco Data Science Essentials with Python
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
+</p>
+
 
 # 📊 What I Work With
 
@@ -187,7 +224,11 @@ June 2023 – April 2024
 - Power BI Reports
 - Data Transformation
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
+</p>
+
 
 # 📂 Featured Projects
 
@@ -200,7 +241,11 @@ Here are some of the projects you'll find in this repository:
 - 📉 Business Analytics
 - 📋 Data Cleaning Projects
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
+</p>
+
 
 # 🌱 Currently Learning
 
@@ -212,21 +257,31 @@ Here are some of the projects you'll find in this repository:
 - Tableau Dashbording
 - GitHub 
 
----
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
+</p>
+
+
+
 # 🪩 Let's Connect 🔗
 
 - ![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
     **hrishikeshanandfresher@gmail.com**
 
+<hr>
+
 
 ## Connect with Me @ 🛡️LinkedIn:
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
   <https://www.linkedin.com/in/hrishikesh-anand-897b31220/>
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
+</p>
+
 
 ## 💡 Quote
 
