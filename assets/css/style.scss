@@ -91,5 +91,19 @@ b {
 
 /*BORDER CODE */
 /* Full Page Border */
+---
+---
 
+@import "{{ site.theme }}";
+
+/* Main content container */
+.wrapper {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 35px;
+    background: #1E2A44;
+    border: 2px solid #4ADE80;
+    border-radius: 16px;
+    box-shadow: 0 0 25px rgba(74, 222, 128, 0.15);
+}
 
