@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+/* Hide the entire footer */
+footer {
+  display: none !important;
+}
+
+---
+---
+
+@import "{{ site.theme }}";
+
 /* ===== Page Background ===== */
 body {
     background: #0d1117;
@@ -89,12 +99,3 @@ b {
     color: #ffffff;
 }
 
----
----
-
-@import "{{ site.theme }}";
-
-/* Hide the entire footer */
-footer {
-  display: none;
-}
