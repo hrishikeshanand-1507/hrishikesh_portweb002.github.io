@@ -186,11 +186,11 @@ Here are some of the projects you'll find in this repository:
 ---
 
 ---
-# 🪩 Let's Connect
+# 🪩 Let's Connect 🔗
 
 - ![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-🔗    **hrishikeshanandfresher@gmail.com**
+    **hrishikeshanandfresher@gmail.com**
 
 
 ## Connect with Me @ 🛡️LinkedIn:
