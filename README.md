@@ -79,7 +79,7 @@ June 2023 – April 2024
 
 ---
 
-# 🛠 Skills
+## 🛠 Skills
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
@@ -88,9 +88,13 @@ June 2023 – April 2024
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+____
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DATA%20%20ANALYTICS-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
+</p>
 
 
-## Data Analytics
 
 - Data Cleaning
 - Data Analysis
@@ -99,7 +103,11 @@ June 2023 – April 2024
 - Business Intelligence
 - KPI Reporting
 
-## Microsoft Excel
+____
+
+<p align="left">
+  <img src="https://img.shields.io/badge/EXCEL-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
+</p>
 
 - Pivot Tables
 - Pivot Charts
@@ -113,7 +121,11 @@ June 2023 – April 2024
 - Conditional Formatting
 - Dashboard Creation
 
-## Programming
+____
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PROGRAMMING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
+</p>
 
 - Python
   - Pandas
@@ -121,7 +133,11 @@ June 2023 – April 2024
 - PostgreSQL
 - SQL
 
-## BI Tools
+____
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DASHBOARDING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
+</p>
 
 - Power BI
 - Microsoft Excel
