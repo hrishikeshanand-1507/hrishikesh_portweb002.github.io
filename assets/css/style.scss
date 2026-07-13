@@ -92,11 +92,9 @@ b {
 ---
 ---
 
-
 @import "{{ site.theme }}";
 
-/* Hide the footer */
+/* Hide the entire footer */
 footer {
-    display: none;
+  display: none !important;
 }
-
