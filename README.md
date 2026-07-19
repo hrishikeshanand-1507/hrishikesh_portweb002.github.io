@@ -17,6 +17,7 @@
 
 
 <table width="100%">
+<div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
 <table width="100%">
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
 
