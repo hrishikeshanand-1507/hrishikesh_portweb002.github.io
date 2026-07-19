@@ -18,7 +18,6 @@
 
 <table width="100%">
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=900&lines=Data+Enthusiast+.+.+.+.;Passionate+Data+Analyst+.+.+.+.;Turning+Complex+Data+into+Clear+Insights;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Transformation+%26+Data+Visualization;Continuous+Learning"
@@ -36,10 +35,10 @@ Transforming raw data into actionable business insights through analysis, visual
 </div>
 </table>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
 </p>
+
 ## 🪪 About Me
 
 I'm a **Data Analyst** with professional experience in transforming raw operational data into meaningful business insights.
