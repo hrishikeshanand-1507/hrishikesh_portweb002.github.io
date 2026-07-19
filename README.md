@@ -41,8 +41,6 @@ Transforming raw data into actionable business insights through analysis, visual
 
 ## 🪪 About Me
 
-<table width="100%">
-<div style="border:1px solid #60A5FA;border-radius:10px;padding:15px;">
 
 I'm a **Data Analyst** with professional experience in transforming raw operational data into meaningful business insights.
 
@@ -52,8 +50,6 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 
 **Am passionate in solving business problems for decision making insights by using raw data, as transforming it into meaningfull data dashboards and continuously improving analytical skills of mine by contributing my efforts to the company growth.**
 
-</div>
-</table>
 
 
 <p align="center">
