@@ -18,7 +18,6 @@
 
 <table width="100%">
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
-<table width="100%">
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
 
 <p align="center">
@@ -35,7 +34,6 @@ Transforming raw data into actionable business insights through analysis, visual
 </p>
 
 </div>
-</table>
 </table>
 
 
