@@ -36,8 +36,7 @@ Transforming raw data into actionable business insights through analysis, visual
 </table>
 
 
-## 🪪 About Me
-
+ ![About Me](https://img.shields.io/badge/ABOUT%20ME-0F172A?style=for-the-badge&logo=github&logoColor=4ADE80&labelColor=1E293B)
 
 I'm a **Data Analyst** with professional experience in transforming raw operational data into meaningful business insights.
 
