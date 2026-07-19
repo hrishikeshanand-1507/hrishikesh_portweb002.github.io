@@ -17,7 +17,7 @@
 
 
 <table width="100%">
-<div style="border:2px solid #7EE787;border-radius:10px;padding:18px;">
+<div style="border:2px solid #4ADE80;border-radius:10px;padding:18px;">
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=900&lines=Data+Enthusiast+.+.+.+.;Passionate+Data+Analyst+.+.+.+.;Turning+Complex+Data+into+Clear+Insights;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Transformation+%26+Data+Visualization;Continuous+Learning"
