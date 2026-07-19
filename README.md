@@ -15,19 +15,9 @@
 </p>
 
 
-<table width="100%">
-<tr>
-<td>
-
-
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
-
 
 <table width="100%">
-<tr>
 <td>
-
-
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
 
 <p align="center">
@@ -45,15 +35,8 @@ Transforming raw data into actionable business insights through analysis, visual
 
 </div>
 </td>
-</tr>
 </table>
 
-
-
-</div>
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
