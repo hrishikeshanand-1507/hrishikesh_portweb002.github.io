@@ -90,8 +90,11 @@ b {
 }
 
 /*BORDER CODE */
-/* Full Page Border */
 
+ /*remove footer*/
 
+footer {
+    display: none !important;
+}
 
 
