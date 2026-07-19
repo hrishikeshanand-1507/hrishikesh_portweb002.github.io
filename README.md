@@ -43,11 +43,9 @@ Transforming raw data into actionable business insights through analysis, visual
 </tr>
 </table>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
 </p>
-
 
 
 
