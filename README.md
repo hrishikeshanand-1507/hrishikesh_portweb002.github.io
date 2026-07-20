@@ -81,7 +81,7 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 
 ## 📰 Current Role
 
-**Data & Operations Analyst;  [ Part-time / Freelancing ]**
+**Data & Operations Analyst;  [ Part-time / Freelancing ]**<br>
 📍 Vishwakarma Transporting Enterprises Pvt. Ltd.
 📅 February 2025 – Present
 
@@ -104,7 +104,7 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 
 ## 💼 Previous Experience
 
-### Customer Support Executive; [ Full-time ]
+### Customer Support Executive; [ Full-time ]<br>
 **Concentrix Daksh Services India Pvt. Ltd.**
 June 2023 – April 2024
 
