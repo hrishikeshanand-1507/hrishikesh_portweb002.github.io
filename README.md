@@ -54,6 +54,13 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 
 
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
+</p>
+
+
+
 ## 📰 Current Role
 
 **Data & Operations Analyst**
