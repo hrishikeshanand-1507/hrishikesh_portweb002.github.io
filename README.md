@@ -56,16 +56,13 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 
 <h3> 🌐 To visit my Project Documentary Website :- </h3>
 
-<table width="80%">
-<tr>
-
 <td align="center" width="85%">
 
-<h3>Kindly click on the, [🔗 Link Button ] 👉🏻 </h3>
+<h3>👇🏻Kindly click on the, [🔗 Link Button ] </h3>
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="40%">
 
 <a href="https://project-hrishikesh.github.io/hrishikesh_project_website/">
 
@@ -74,10 +71,6 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 </a>
 
 </td>
-
-</tr>
-</table>
-
 
 
 <p align="center">
