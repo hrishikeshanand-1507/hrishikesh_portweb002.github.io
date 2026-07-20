@@ -56,7 +56,7 @@ Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transp
 
 <h3> 🌐 To visit my Project Documentary Website :- </h3>
 
-<table width="100%">
+<table width="80%">
 <tr>
 
 <td align="center" width="85%">
