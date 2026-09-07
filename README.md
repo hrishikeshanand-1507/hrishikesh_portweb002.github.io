@@ -297,15 +297,15 @@ Here are some of the projects you'll find in this repository:
 
 - ![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-    **hrishikeshanandfresher@gmail.com**
+    **hrishikeshanand.analyst@gmail.com**
 
 <hr>
 
 
 ## Connect with Me @ 🛡️LinkedIn:
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-  <https://www.linkedin.com/in/hrishikesh-anand-897b31220/>
+- <a href="https://www.linkedin.com/in/hrishikesh-anand-897b31220/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
