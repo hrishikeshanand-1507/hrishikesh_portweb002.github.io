@@ -132,7 +132,7 @@ June 2023 – May 2024
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/DATA%20%20ANALYTICS-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20DATA%20ANALYTICS-FF2D2D?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
 </p>
 
 
@@ -149,7 +149,7 @@ June 2023 – May 2024
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/EXCEL-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20MS%20EXCEL-FF2D2D?style=for-the-badge&logo=googlesheets&logoColor=FFFFFF&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
 </p>
 
 
@@ -170,7 +170,7 @@ June 2023 – May 2024
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PROGRAMMING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20PROGRAMMING%20LANGUAGE-FF2D2D?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
 </p>
 
 
@@ -185,7 +185,7 @@ June 2023 – May 2024
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/DASHBOARDING-1E293B?style=plastic&logoColor=FFFFFF&labelColor=1E293B&color=1E293B" alt="Business Intelligence">
+  <img src="https://img.shields.io/badge/%E2%96%A0%20INSIGHTS%20DASHBOARD-FF2D2D?style=for-the-badge&logo=databricks&logoColor=FF2D2D&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
 </p>
 
 
