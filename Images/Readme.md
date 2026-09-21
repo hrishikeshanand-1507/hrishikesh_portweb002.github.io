@@ -227,7 +227,7 @@ Passing Year (2019)
 <br>
 <a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-FF3B3B?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-0D47A5?style=for-the-badge&logo=github&logoColor=white"
     alt="Explore Certificates Achieved"
   />
 </a>
@@ -238,6 +238,21 @@ Passing Year (2019)
 
 
 # 📊 What I Work With :-
+
+## 📊 What I Work With :-
+
+| **#** | **AREA** | **SKILLS / WORK** | **APPLICATION** |
+|:---:|---|---|---|
+| 01 | 🗄️ **SQL** | SQL Queries | Data Analysis |
+| 02 | 🐍 **Python** | Data Automation | Data Processing |
+| 03 | 🧹 **Data** | Data Cleaning & Transformation | Data Preparation |
+| 04 | 📝 **Operations** | Data Entry | Data Management |
+| 05 | 📊 **Excel** | Excel Automation | Reporting |
+| 06 | 🎨 **Figma** | Dashboard Design | UI / UX |
+| 07 | 📈 **Power BI** | Reports & Dashboards | Business Intelligence |
+| 08 | 📋 **Reporting** | Business Reporting | Business Analysis |
+| 09 | 🎯 **KPI** | KPI Dashboards | Performance Tracking |
+
 
 - SQL Queries
 - Python Data Automation
@@ -257,7 +272,7 @@ Passing Year (2019)
 </p>
 
 
-## 🔴 `COMPANY-ORIENTED PROJECTS`
+## 🔴 `COMPANY-ORIENTED PROJECTS` :-
 
 <p align="center">
   A collection of <strong>real-world, company-oriented data analytics projects</strong>
@@ -273,7 +288,7 @@ Passing Year (2019)
 <p align="left">
   <a href="YOUR_REPOSITORY_LINK" target="_blank">
     <img
-      src="https://img.shields.io/badge/🪪%20EXPLORE%20COMPANY%20PROJECTS-FF3B3B?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/🪪%20EXPLORE%20COMPANY%20PROJECTS-0D47A5?style=for-the-badge&logo=github&logoColor=white"
       alt="Explore Company Projects"
     />
   </a>
