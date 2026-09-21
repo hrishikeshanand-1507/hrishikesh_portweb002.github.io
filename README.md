@@ -255,27 +255,25 @@ Passing Year (2019)
 
 ## 🔴 `COMPANY-ORIENTED PROJECTS`
 
-<div align="center">
-
-</div>
-
 <p align="center">
-  A collection of <strong>real-world company-oriented data analytics projects</strong>
-  that mainly focuses on cleaning / transforming operational data and business data into meaningful performance insights that helpscompany in makeing data-driven business decisions.
+  A collection of <strong>real-world, company-oriented data analytics projects</strong>
+  focused on cleaning, transforming, analyzing, and visualizing operational and
+  business data to generate meaningful performance insights and support
+  data-driven business decisions.
 </p>
 
-
-<div align="left">
-
-<p>
-  <i>Click below mentioned link button to explore my company-oriented projects repository.</i>
+<p align="left">
+  <i>Click the button below to explore my company-oriented projects repository.</i>
 </p>
 
-<a href="YOUR_REPOSITORY_LINK" target="_blank">
-
-<img src="https://img.shields.io/badge/🪪%20EXPLORE%20COMPANY%20PROJECTS-FF3B3B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Company Projects"/>
-
-</a>
+<p align="left">
+  <a href="YOUR_REPOSITORY_LINK" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🪪%20EXPLORE%20COMPANY%20PROJECTS-FF3B3B?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore Company Projects"
+    />
+  </a>
+</p>
 
 
 <p align="center">
