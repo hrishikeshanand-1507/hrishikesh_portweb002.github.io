@@ -235,6 +235,20 @@ Passing Year (2019)
 
 # 📊 What I Work With :-
 
+## 📊 What I Work With :-
+
+| **#** | **AREA** | **SKILLS / WORK** | **APPLICATION** |
+|:---:|---|---|---|
+| 01 | 🗄️ **SQL** | SQL Queries | Data Analysis |
+| 02 | 🐍 **Python** | Data Automation | Data Processing |
+| 03 | 🧹 **Data** | Data Cleaning & Transformation | Data Preparation |
+| 04 | 📝 **Operations** | Data Entry | Data Management |
+| 05 | 📊 **Excel** | Excel Automation | Reporting |
+| 06 | 🎨 **Figma** | Dashboard Design | UI / UX |
+| 07 | 📈 **Power BI** | Reports & Dashboards | Business Intelligence |
+| 08 | 📋 **Reporting** | Business Reporting | Business Analysis |
+| 09 | 🎯 **KPI** | KPI Dashboards | Performance Tracking |
+
 - SQL Queries
 - Python Data Automation
 - Data Cleaning
