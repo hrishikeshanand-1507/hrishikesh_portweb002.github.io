@@ -24,10 +24,11 @@
     alt="Typing SVG"/>
 </p>
 
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MS%20Excel-111111?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-111111?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/KPI%20Dashboards-111111?style=flat-square&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-1A1953?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-1A1953?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MS%20Excel-1A1953?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-1A1953?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/KPI%20Dashboards-1A1953?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
 </div>
 
