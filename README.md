@@ -81,35 +81,11 @@ Currently, I am pursuing an **MBA in Banking & Finance** while continuously deve
 </p>
 
 
-
-## 📰 Current Role
-
-**Data & Operations Analyst;  [ Part-time / Freelancing ]**<br>
-📍 Vishwakarma Transporting Enterprises Pvt. Ltd.
-📅 February 2025 – Present
-
-### Responsibilities
-
-- Data Cleaning & Validation
-- Excel Dashboard Development
-- Business Reporting
-- KPI Monitoring
-- Transport Operations Analysis
-- Financial Data Analysis
-- Process Automation
-- Daily Performance Reporting
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
-</p>
-
-
-## 💼 Previous Experience
+## 💼 Experience :-
 
 ### Customer Support Executive; [ Full-time ]<br>
 **Concentrix Daksh Services India Pvt. Ltd.**
-June 2023 – April 2024
+June 2023 – May 2024
 
 - Customer query resolution
 - CRM management
@@ -131,7 +107,7 @@ June 2023 – April 2024
 </p>
 
 
-## 🛠 Skills
+## 🛠 Skills :-
 
 ![Dashboard](https://img.shields.io/badge/Interactive%20Dashboard-1E40AF?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
@@ -216,16 +192,19 @@ June 2023 – April 2024
 </p>
 
 
-## 📚 Education
+## 📚 Education :-
 
 ### 🎓 Master of Business Administration (MBA)
 **Indira Gandhi National Open University (IGNOU)**
-*Banking & Finance* *(Pursuing)*
+*Banking & Finance* 
+*(2024 - Pursuing)*
 
 ### 🎓 Bachelor of Commerce (Honours)
 **Binod Bihari Mahto Koyalanchal University (BBMKU)**
+Session (2019 - 2022)
 
 ### 🎓 Intermediate (Science - Computer Science)
+Passing Year (2019)
 
 
 <p align="center">
@@ -233,11 +212,12 @@ June 2023 – April 2024
 </p>
 
 
-# 📜 Certifications
+# 📜 Certifications :-
 
-- IBM Data Science Foundation
-- Python for Data Science (IBM)
-- Cisco Data Science Essentials with Python
+- 
+- 
+- 
+- 
 
 
 <p align="center">
@@ -245,16 +225,19 @@ June 2023 – April 2024
 </p>
 
 
-# 📊 What I Work With
+# 📊 What I Work With :-
 
-- Excel Automation
-- Data Cleaning
-- Dashboard Design
-- Business Reporting
 - SQL Queries
-- Python Data Analysis
-- Power BI Reports
+- Python Data Automation
+- Data Cleaning
+- Data Entry 
 - Data Transformation
+- Excel Automation
+- Figma Dashboard Design
+- Power BI Reports
+- Business Reporting
+- KPI Dashboards
+
 
 
 <p align="center">
@@ -262,16 +245,12 @@ June 2023 – April 2024
 </p>
 
 
-# 📂 Featured Projects
+# 📂 Featured Projects :-
 
 Here are some of the projects you'll find in this repository:
 
-- 📊 Excel Dashboards
-- 📈 Power BI Dashboards
-- 🐍 Python Data Analysis
-- 🗄 SQL Projects
-- 📉 Business Analytics
-- 📋 Data Cleaning Projects
+- 
+- 
 
 
 <p align="center">
@@ -279,15 +258,13 @@ Here are some of the projects you'll find in this repository:
 </p>
 
 
-# 🌱 Currently Learning
+# 🌱 Currently Learning :-
 
 - Advanced SQL
 - Data Engineering
 - Statistical Analysis
 - Advanced Power BI
 - Python Automation
-- Tableau Dashbording
-- GitHub 
 
 
 <p align="center">
