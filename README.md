@@ -71,10 +71,11 @@ Currently, I am pursuing an **MBA in Banking & Finance** while continuously deve
 
 <td align="center" width="40%">
 
-<a href="https://project-hrishikesh.github.io/hrishikesh_project_website/">
-
-<img src="https://img.shields.io/badge/Explore%20Website-F6F8FA?style=for-the-badge&logo=github&logoColor=24292F&labelColor=F6F8FA&color=F6F8FA" alt="Explore Website">
-
+<a href="https://project-hrishikesh.github.io/hrishikesh_project_website/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/🌐%20EXPLORE%20WEBSITE-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
+    alt="Explore Website"
+  />
 </a>
 
 </td>
