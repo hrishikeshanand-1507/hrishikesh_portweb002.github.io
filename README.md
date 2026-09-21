@@ -25,9 +25,14 @@
 </p>
 
 
+<div align="center">
 
-<h2 align="center">Aspiring Data Analyst | Data Enthusiast | KPI Dashboard <br>
-DATA [Cleaning, Analyzing, Visualizing]</h2>
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MS%20Excel-111111?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-111111?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/KPI%20Dashboards-111111?style=flat-square&logo=chartdotjs&logoColor=white"/>
+
+</div>
+
+<h3 align="center">Aspiring Data Analyst | Data Enthusiast | KPI Dashboard <br>
+DATA [Cleaning, Analyzing, Visualizing] </h3>
 
 <p align="center">
 <h4>Transforming raw data into actionable business insights dashboards through cleaning the raw data, data analysis, and data automation.</h4>
