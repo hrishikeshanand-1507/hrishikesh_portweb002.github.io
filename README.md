@@ -230,6 +230,8 @@ Passing Year (2019)
 <img src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-FF3B3B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Certificates Achieved "/>
 
 </a>
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
