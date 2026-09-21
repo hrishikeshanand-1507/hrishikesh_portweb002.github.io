@@ -51,8 +51,6 @@ Through my professional experience, internship, and projects, I have worked with
 
 Currently, I am pursuing an **MBA in Banking & Finance** while continuously developing my expertise in **Data Analytics and Business Intelligence**. I am interested in opportunities where I can apply **SQL, Python, Power BI, Excel, and analytical thinking** to solve business problems, identify trends, develop actionable dashboards, improve reporting processes, and transform complex data into valuable business insights.
 
-**Core Skills:** Data Analytics • SQL • Python • Power BI • Advanced Excel • Google Sheets • Data Cleaning • Data Transformation • Data Visualization • KPI Dashboards • Business Intelligence • Operational Analytics • Financial Analysis • Trend Analysis
-
 **Am passionate in solving business problems for decision making by using the raw data, as transforming it into meaningfull data dashboards and continuously improving analytical skills of mine by contributing my efforts to the company growth.**
 
 
