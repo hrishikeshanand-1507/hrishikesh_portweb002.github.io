@@ -238,15 +238,15 @@ Passing Year (2019)
 
 | **AREA** | **SKILLS / WORK** | **APPLICATION** |
 |---|---|---|
-| ▫️ **SQL** | SQL Queries | Data Analysis |
-| ▫️ **Python** | Data Automation | Data Processing |
-| ▫️ **Data** | Data Cleaning & Transformation | Data Preparation |
-| ▫️ **Operations** | Data Entry | Data Management |
-| ▫️ **Excel** | Excel Automation | Reporting |
-| ▫️ **Figma** | Dashboard Design | UI / UX |
-| ▫️ **Power BI** | Reports & Dashboards | Business Intelligence |
-| ▫️ **Reporting** | Business Reporting | Business Analysis |
-| ▫️ **KPI** | KPI Dashboards | Performance Tracking |
+| ▫️**SQL** | SQL Queries | Data Analysis |
+| ▫️**Python** | Data Automation | Data Processing |
+| ▫️**Data** | Data Cleaning & Transformation | Data Preparation |
+| ▫️**Operation** | Data Entry | Data Management |
+| ▫️**Excel** | Excel Automation | Reporting |
+| ▫️**Figma** | Dashboard Design | UI / UX |
+| ▫️**Power BI** | Reports & Dashboards | Business Intelligence |
+| ▫️**Reporting** | Business Reporting | Business Analysis |
+| ▫️**KPI** | KPI Dashboards | Performance Tracking |
 
 
 <p align="center">
