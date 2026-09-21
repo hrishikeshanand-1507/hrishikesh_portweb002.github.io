@@ -219,8 +219,7 @@ Passing Year (2019)
 
 # 📜 Certifications :-
 
-<h3i>Click below mentioned liunk button to explore the repository for the certificates achived by me......</h3>
-<br>
+<i>Click below to explore my Certificates Achieved repository.</i>
 <br>
 <a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
   <img
@@ -232,6 +231,7 @@ Passing Year (2019)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
 </p>
+
 
 # 📊 What I Work With :-
 
@@ -245,6 +245,7 @@ Passing Year (2019)
 - Power BI Reports
 - Business Reporting
 - KPI Dashboards
+
 
 
 <p align="center">
