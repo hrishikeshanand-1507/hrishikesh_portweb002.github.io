@@ -219,9 +219,7 @@ Passing Year (2019)
 
 # 📜 Certifications :-
 
-<p>
-  <i>Click below to explore my Certificates achieved repository.</i>
-</p>
+<i>Click below to explore my Certificates achieved repository.</i>
 
 <a href="YOUR_REPOSITORY_LINK" target="_blank">
 
@@ -235,16 +233,6 @@ Passing Year (2019)
 
 
 # 📊 What I Work With :-
-
-<div align="center">
-
-|   📊 Data Analytics   | 💼 Business Analysis |      📈 Reporting     |
-| :-------------------: | :------------------: | :-------------------: |
-|  Data Cleaning & EDA  | Operational Analysis |     KPI Reporting     |
-|  Data Transformation  |  Financial Analysis  | Dashboard Development |
-| SQL & Python Analysis | Performance Tracking | Business Intelligence |
-
-</div>
 
 - SQL Queries
 - Python Data Automation
