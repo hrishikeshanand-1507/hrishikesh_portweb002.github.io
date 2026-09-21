@@ -41,9 +41,6 @@ DATA [Cleaning, Analyzing, Visualizing] </h3>
 
 <hr>
 
-<table width="100%">
-<div style="border:1px solid #60A5FA;border-radius:10px;padding:15px;">
-
  ![About Me](https://img.shields.io/badge/ABOUT%20ME-0F172A?style=for-the-badge&logo=github&logoColor=4ADE80&labelColor=1E293B)
 
 
@@ -55,8 +52,7 @@ Currently, I am pursuing an **MBA in Banking & Finance** while continuously deve
 
 **Am passionate in solving business problems for decision making by using the raw data, as transforming it into meaningfull data dashboards and continuously improving analytical skills of mine by contributing my efforts to the company growth.**
 
-</div>
-</table>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
