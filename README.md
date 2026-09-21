@@ -26,7 +26,7 @@
 
 
 
-<h2 align="center">Aspiring Data Analyst || Data Enthusiast || KPI Dashboard <br>
+<h2 align="center">Aspiring Data Analyst | Data Enthusiast | KPI Dashboard <br>
 DATA [Cleaning, Analyzing, Visualizing]</h2>
 
 <p align="center">
@@ -247,7 +247,7 @@ Passing Year (2019)
 </p>
 
 
-# 📂 Featured Projects :-
+# 📂 Company Oriented Projects :-
 
 Here are some of the projects you'll find in this repository:
 
