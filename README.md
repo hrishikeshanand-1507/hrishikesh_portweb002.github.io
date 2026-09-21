@@ -26,7 +26,8 @@
 
 
 
-<h2 align="center">|| Data Analyst || Data Cleaning || Insights Dashboard || </h2>
+<h2 align="center">Aspiring Data Analyst || Data Enthusiast || KPI Dashboard <br>
+DATA [Cleaning, Analyzing, Visualizing]</h2>
 
 <p align="center">
 <h4>Transforming raw data into actionable business insights dashboards through cleaning the raw data, data analysis, and data automation.</h4>
