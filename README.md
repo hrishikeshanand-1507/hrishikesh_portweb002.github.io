@@ -223,7 +223,7 @@ Passing Year (2019)
 <br>
 <a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-FF3B3B?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-FF2D2D?style=for-the-badge&logo=github&logoColor=white"
     alt="Explore Certificates Achieved"
   />
 </a>
@@ -269,7 +269,7 @@ Passing Year (2019)
 <p align="left">
   <a href="YOUR_REPOSITORY_LINK" target="_blank">
     <img
-      src="https://img.shields.io/badge/🪪%20EXPLORE%20COMPANY%20PROJECTS-FF3B3B?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/🪪%20EXPLORE%20COMPANY%20PROJECTS-FF2D2D?style=for-the-badge&logo=github&logoColor=white"
       alt="Explore Company Projects"
     />
   </a>
