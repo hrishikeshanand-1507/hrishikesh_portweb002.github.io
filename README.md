@@ -233,9 +233,10 @@ Passing Year (2019)
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
 </p>
 
-<h2>📊 What I Work With :-</h2>
+<div>
+ <h2>📊 What I Work With :-</h2>
 
-<table>
+ <table>
   <tr>
     <td>🗄️ <strong>SQL</strong></td>
     <td>SQL Queries</td>
@@ -268,7 +269,8 @@ Passing Year (2019)
     <td>🎯 <strong>KPI</strong></td>
     <td>KPI Dashboards</td>
   </tr>
-</table>
+ </table>
+</div>
 
 
 <p align="center">
