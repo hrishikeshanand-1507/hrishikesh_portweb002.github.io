@@ -115,15 +115,18 @@ June 2023 – May 2024
 
 ![Dashboard](https://img.shields.io/badge/Interactive%20Dashboard-1E40AF?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgre%20SQL-1B1A55?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-3C3D37?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-092635?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Ms Excel](https://img.shields.io/badge/Ms%20Excel-005B41?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Sheet](https://img.shields.io/badge/Google%20Sheet-255F38?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI Reports](https://img.shields.io/badge/Power%20BI%20Reports-1E293B?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![KPI Dashboard](https://img.shields.io/badge/〽️%20KPI%20Dashboard-481E14?style=for-the-badge&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-BE3144?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-32012F?style=flat-square&logo=github&logoColor=white)
 
 
 <hr>
