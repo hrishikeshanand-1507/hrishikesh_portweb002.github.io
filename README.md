@@ -38,13 +38,16 @@ Transforming raw data into actionable business insights through analysis, visual
 
  ![About Me](https://img.shields.io/badge/ABOUT%20ME-0F172A?style=for-the-badge&logo=github&logoColor=4ADE80&labelColor=1E293B)
 
-I'm a **Data Analyst** with professional experience in transforming raw operational data into meaningful business insights.
 
-Currently, Am working as a **Data & Operations Analyst** at **Vishwakarma Transporting Enterprises Pvt. Ltd.**. Within this company my work is; 
+I'm a **detail-oriented Data Analyst** with hands-on experience in **data analysis, data cleaning, exploratory data analysis (EDA), data transformation, KPI reporting, dashboard development, and operational & financial analysis**. I enjoy transforming raw and unstructured data into meaningful business insights that support **data-driven decision-making, performance tracking, and business intelligence**. My technical toolkit includes **Python (Pandas, NumPy), SQL (MySQL, PostgreSQL), Power BI, Advanced MS Excel, Google Sheets, Figma, Canva, and PowerPoint**, along with practical knowledge of **ETL, statistical analysis, trend analysis, data visualization, database querying, and KPI dashboard development**.
 
-- To clean, analyze, and visualize transportation and financial datasets using Excel, Python, and Power BI.
+Through my professional experience, internship, and projects, I have worked with **logistics, transportation, production, operational, and financial datasets**. My work involves cleaning and transforming raw datasets using Python, handling missing values and duplicates, performing SQL-based analysis, conducting trend and time-series analysis, and developing interactive **Power BI KPI dashboards** to monitor operational and financial performance. I have also used **Advanced Excel** to prepare operational reports, automate recurring summaries, analyze business performance, and present insights effectively through structured visualizations and dashboards. My experience in operations and customer support has further strengthened my **problem-solving, data accuracy, documentation, communication, and cross-functional collaboration** skills.
 
-**Am passionate in solving business problems for decision making insights by using raw data, as transforming it into meaningfull data dashboards and continuously improving analytical skills of mine by contributing my efforts to the company growth.**
+Currently, I am pursuing an **MBA in Banking & Finance** while continuously developing my expertise in **Data Analytics and Business Intelligence**. I am interested in opportunities where I can apply **SQL, Python, Power BI, Excel, and analytical thinking** to solve business problems, identify trends, develop actionable dashboards, improve reporting processes, and transform complex data into valuable business insights.
+
+**Core Skills:** Data Analytics • SQL • Python • Power BI • Advanced Excel • Google Sheets • Data Cleaning • Data Transformation • Data Visualization • KPI Dashboards • Business Intelligence • Operational Analytics • Financial Analysis • Trend Analysis
+
+**Am passionate in solving business problems for decision making by using the raw data, as transforming it into meaningfull data dashboards and continuously improving analytical skills of mine by contributing my efforts to the company growth.**
 
 
 
