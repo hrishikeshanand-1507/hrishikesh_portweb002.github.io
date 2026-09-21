@@ -233,33 +233,19 @@ Passing Year (2019)
 </p>
 
 
-# 📊 What I Work With :-
-
 ## 📊 What I Work With :-
 
-| **#** | **AREA** | **SKILLS / WORK** | **APPLICATION** |
-|:---:|---|---|---|
-| 01 | 🗄️ **SQL** | SQL Queries | Data Analysis |
-| 02 | 🐍 **Python** | Data Automation | Data Processing |
-| 03 | 🧹 **Data** | Data Cleaning & Transformation | Data Preparation |
-| 04 | 📝 **Operations** | Data Entry | Data Management |
-| 05 | 📊 **Excel** | Excel Automation | Reporting |
-| 06 | 🎨 **Figma** | Dashboard Design | UI / UX |
-| 07 | 📈 **Power BI** | Reports & Dashboards | Business Intelligence |
-| 08 | 📋 **Reporting** | Business Reporting | Business Analysis |
-| 09 | 🎯 **KPI** | KPI Dashboards | Performance Tracking |
-
-- SQL Queries
-- Python Data Automation
-- Data Cleaning
-- Data Entry 
-- Data Transformation
-- Excel Automation
-- Figma Dashboard Design
-- Power BI Reports
-- Business Reporting
-- KPI Dashboards
-
+| **AREA** | **SKILLS / WORK** | **APPLICATION** |
+|---|---|---|
+| ▫️◽◻️ **SQL** | SQL Queries | Data Analysis |
+| 🐍 **Python** | Data Automation | Data Processing |
+| 🧹 **Data** | Data Cleaning & Transformation | Data Preparation |
+| 📝 **Operations** | Data Entry | Data Management |
+| 📊 **Excel** | Excel Automation | Reporting |
+| 🎨 **Figma** | Dashboard Design | UI / UX |
+| 📈 **Power BI** | Reports & Dashboards | Business Intelligence |
+| 📋 **Reporting** | Business Reporting | Business Analysis |
+| 🎯 **KPI** | KPI Dashboards | Performance Tracking |
 
 
 <p align="center">
