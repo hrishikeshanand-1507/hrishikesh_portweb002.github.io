@@ -219,12 +219,14 @@ Passing Year (2019)
 
 # 📜 Certifications :-
 
-<i>Click below to explore my Certificates achieved repository.</i>
-
-<a href="YOUR_REPOSITORY_LINK" target="_blank">
-
-<img src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-FF3B3B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Certificates Achieved "/></a>
-
+<i>Click below to explore my Certificates Achieved repository.</i>
+<br>
+<a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-FF3B3B?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Certificates Achieved"
+  />
+</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
@@ -318,99 +320,6 @@ Passing Year (2019)
 ## 💡 Quote
 
 >**"Turning data into actionable insights that drive smarter decisions and measurable business impact."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" width="100%"/>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 📜 Certifications
-
-<i>Click below to explore my certificate repository.</i>
-
-<br>
-
-<a href="YOUR_REPOSITORY_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-FF3B3B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Certificates Achieved"/>
-</a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
-</p>
-
-# 📊 What I Work With
-
-* SQL Queries
-* Python Data Automation
-* Data Cleaning
-* Data Entry
-* Data Transformation
-* Excel Automation
-* Figma Dashboard Design
-* Power BI Reports
-* Business Reporting
-* KPI Dashboards
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
-</p>
-
-# 🔴 `COMPANY-ORIENTED PROJECTS`
-
-<p align="center">
-  A collection of <strong>real-world, company-oriented data analytics projects</strong>
-  focused on cleaning, transforming, and analyzing operational and business data
-  to generate meaningful performance insights and support data-driven business decisions.
-</p>
-
-<p>
-  <i>Click the button below to explore my company-oriented projects repository.</i>
-</p>
-
-<a href="YOUR_REPOSITORY_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/🪪%20EXPLORE%20COMPANY%20PROJECTS-FF3B3B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Company Projects"/>
-</a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
-</p>
-
-# 🌱 Currently Learning
-
-* Advanced SQL
-* Data Engineering
-* Statistical Analysis
-* Advanced Power BI
-* Python Automation
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
-</p>
-
-# 🪩 Let's Connect 🔗
-
-### 📧 Email
-
-<a href="mailto:hrishikeshanand.analyst@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
-</a>
-
-<br><br>
-
-### 🛡️ LinkedIn
-
-<a href="https://www.linkedin.com/in/hrishikesh-anand-897b31220/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
-</p>
-
-## 💡 Quote
-
-> **"Turning data into actionable insights that drive smarter decisions and measurable business impact."**
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" width="100%"/>
 
