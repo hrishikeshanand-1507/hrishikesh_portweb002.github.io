@@ -216,11 +216,17 @@ Passing Year (2019)
 
 # 📜 Certifications :-
 
-- 
-- 
-- 
-- 
+<div align="left">
 
+<p>
+  <i>Click below to explore my Certificates achieved repository.</i>
+</p>
+
+<a href="YOUR_REPOSITORY_LINK" target="_blank">
+
+<img src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-FF3B3B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Certificates Achieved "/>
+
+</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
@@ -228,6 +234,16 @@ Passing Year (2019)
 
 
 # 📊 What I Work With :-
+
+<div align="center">
+
+|   📊 Data Analytics   | 💼 Business Analysis |      📈 Reporting     |
+| :-------------------: | :------------------: | :-------------------: |
+|  Data Cleaning & EDA  | Operational Analysis |     KPI Reporting     |
+|  Data Transformation  |  Financial Analysis  | Dashboard Development |
+| SQL & Python Analysis | Performance Tracking | Business Intelligence |
+
+</div>
 
 - SQL Queries
 - Python Data Automation
@@ -247,12 +263,31 @@ Passing Year (2019)
 </p>
 
 
-# 📂 Company Oriented Projects :-
+## 🔴 `COMPANY-ORIENTED PROJECTS`
 
-Here are some of the projects you'll find in this repository:
+<div align="center">
 
-- 
-- 
+</div>
+
+<p align="center">
+  A collection of <strong>real-world company-oriented data analytics projects</strong>
+  that mainly focuses on cleaning / transforming operational data and business data into meaningful performance insights that helpscompany in makeing data-driven business decisions.
+</p>
+
+
+<br>
+
+<div align="left">
+
+<p>
+  <i>Click below mentioned link button to explore my company-oriented projects repository.</i>
+</p>
+
+<a href="YOUR_REPOSITORY_LINK" target="_blank">
+
+<img src="https://img.shields.io/badge/🪪%20EXPLORE%20COMPANY%20PROJECTS-FF3B3B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Company Projects"/>
+
+</a>
 
 
 <p align="center">
