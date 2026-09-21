@@ -26,10 +26,10 @@
 
 
 
-<h3 align="center">Data Analyst | Excel Expert | Python | SQL | Power BI</h3>
+<h2 align="center">|| Data Analyst || Data Cleaning || Insights Dashboard || </h2>
 
 <p align="center">
-Transforming raw data into actionable business insights through analysis, visualization, and automation.
+<h4>Transforming raw data into actionable business insights dashboards through cleaning the raw data, data analysis, and data automation.</h4>
 </p>
 
 </div>
@@ -84,7 +84,7 @@ Currently, I am pursuing an **MBA in Banking & Finance** while continuously deve
 ## 💼 Experience :-
 
 ### Customer Support Executive; [ Full-time ]<br>
-**Concentrix Daksh Services India Pvt. Ltd.**
+**Concentrix Daksh Services India Pvt. Ltd.**<br>
 June 2023 – May 2024
 
 - Customer query resolution
@@ -196,14 +196,15 @@ June 2023 – May 2024
 
 ### 🎓 Master of Business Administration (MBA)
 **Indira Gandhi National Open University (IGNOU)**
-*Banking & Finance* 
-*(2024 - Pursuing)*
+*Banking & Finance* <br>
+*Session (2024 - Pursuing)*
 
 ### 🎓 Bachelor of Commerce (Honours)
-**Binod Bihari Mahto Koyalanchal University (BBMKU)**
-Session (2019 - 2022)
+**Binod Bihari Mahto Koyalanchal University (BBMKU)** <br> 
+Passing Session (2019 - 2022)
 
-### 🎓 Intermediate (Science - Computer Science)
+### 🎓 Intermediate (Science - Computer Science) <br> 
+**S. L. Arya Inter College, Bokaro** <br>
 Passing Year (2019)
 
 
