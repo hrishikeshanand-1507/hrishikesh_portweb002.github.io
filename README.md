@@ -219,7 +219,8 @@ Passing Year (2019)
 
 # 📜 Certifications :-
 
-<i>Click below to explore my Certificates Achieved repository.</i>
+<h3i>Click below mentioned liunk button to explore the repository for the certificates achived by me......</h3>
+<br>
 <br>
 <a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
   <img
@@ -232,20 +233,19 @@ Passing Year (2019)
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
 </p>
 
-
 # 📊 What I Work With :-
 
-- SQL Queries
-- Python Data Automation
-- Data Cleaning
-- Data Entry 
-- Data Transformation
-- Excel Automation
-- Figma Dashboard Design
-- Power BI Reports
-- Business Reporting
-- KPI Dashboards
-
+| **Area** | **Skills** |
+|:---|:---|
+| 🗄️ **SQL** | SQL Queries |
+| 🐍 **Python** | Data Automation |
+| 🧹 **Data** | Data Cleaning & Transformation |
+| 📝 **Operations** | Data Entry |
+| 📊 **Excel** | Excel Automation |
+| 🎨 **Design** | Figma Dashboard Design |
+| 📈 **Power BI** | Power BI Reports |
+| 📋 **Reporting** | Business Reporting |
+| 🎯 **Analytics** | KPI Dashboards |
 
 
 <p align="center">
