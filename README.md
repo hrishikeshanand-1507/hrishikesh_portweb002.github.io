@@ -233,19 +233,42 @@ Passing Year (2019)
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
 </p>
 
-# 📊 What I Work With :-
+<h2>📊 What I Work With :-</h2>
 
-| **Area** | **Skills** |
-|:---|:---|
-| 🗄️ **SQL** | SQL Queries |
-| 🐍 **Python** | Data Automation |
-| 🧹 **Data** | Data Cleaning & Transformation |
-| 📝 **Operations** | Data Entry |
-| 📊 **Excel** | Excel Automation |
-| 🎨 **Design** | Figma Dashboard Design |
-| 📈 **Power BI** | Power BI Reports |
-| 📋 **Reporting** | Business Reporting |
-| 🎯 **Analytics** | KPI Dashboards |
+<table>
+  <tr>
+    <td>🗄️ <strong>SQL</strong></td>
+    <td>SQL Queries</td>
+  </tr>
+  <tr>
+    <td>🐍 <strong>Python</strong></td>
+    <td>Data Automation</td>
+  </tr>
+  <tr>
+    <td>🧹 <strong>Data</strong></td>
+    <td>Cleaning &amp; Transformation</td>
+  </tr>
+  <tr>
+    <td>📊 <strong>Excel</strong></td>
+    <td>Excel Automation</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Figma</strong></td>
+    <td>Dashboard Design</td>
+  </tr>
+  <tr>
+    <td>📈 <strong>Power BI</strong></td>
+    <td>Reports &amp; Dashboards</td>
+  </tr>
+  <tr>
+    <td>📋 <strong>Reporting</strong></td>
+    <td>Business Reporting</td>
+  </tr>
+  <tr>
+    <td>🎯 <strong>KPI</strong></td>
+    <td>KPI Dashboards</td>
+  </tr>
+</table>
 
 
 <p align="center">
