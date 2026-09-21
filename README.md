@@ -23,7 +23,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=900&lines=Data+Enthusiast+.+.+.+.;Passionate+Data+Analyst+.+.+.+.;Turning+Complex+Data+into+Clear+Insights;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Data+Transformation+%26+Data+Visualization;Continuous+Learning"
     alt="Typing SVG"/>
 </p>
-<br>
 <div align="center">
 
 <img src="https://img.shields.io/badge/SQL-1A1953?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-1A1953?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MS%20Excel-1A1953?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-1A1953?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/KPI%20Dashboards-1A1953?style=flat-square&logo=chartdotjs&logoColor=white"/>
