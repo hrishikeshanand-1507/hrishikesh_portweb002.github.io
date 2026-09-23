@@ -275,7 +275,7 @@ June 2023 – May 2024
     <td align="right" width="35%">
       <a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
+          src="https://img.shields.io/badge/🪪%20EXPLORE%20REPOSITORY%20-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
           alt="Explore Certificates Achieved"
         />
       </a>
