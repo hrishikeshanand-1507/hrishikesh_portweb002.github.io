@@ -61,7 +61,6 @@ Currently, I am pursuing an **MBA in Banking & Finance** while continuously deve
 
 
 <h2> 🌐 To visit my Project Documentary Website :- </h2>
-<br>
 <table width="100%">
   <tr>
     <td align="left" width="65%">
