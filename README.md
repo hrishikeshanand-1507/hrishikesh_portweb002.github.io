@@ -152,8 +152,6 @@ June 2023 – May 2024
   </tr>
 </table>
 
-<br>
-
 <hr>
 
 <p align="left">
@@ -192,8 +190,6 @@ June 2023 – May 2024
   </tr>
 </table>
 
-<br>
-
 <hr>
 
 <p align="left">
@@ -206,8 +202,6 @@ June 2023 – May 2024
     <td align="left">🐘 <strong>PostgreSQL</strong></td>
   </tr>
 </table>
-
-<br>
 
 <hr>
 
@@ -223,15 +217,12 @@ June 2023 – May 2024
   </tr>
 </table>
 
-<br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
 </p>
 
 
 ## 📚 Education :-
-<br>
 
 <table width="100%">
   <tr>
@@ -270,12 +261,12 @@ June 2023 – May 2024
 <table width="100%">
   <tr>
     <td align="left" width="65%">
-      <i><strong>Click to explore my Certificates Achieved repository [🔗 Link Button] 👉🏻</strong></i>
+      <i><strong>Certificates Achieved repository [🔗 Link Button] 👉🏻</strong></i>
     </td>
     <td align="right" width="35%">
       <a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://img.shields.io/badge/🪪%20EXPLORE%20REPOSITORY%20-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
+          src="https://img.shields.io/badge/%20EXPLORE%20REPOSITORY%20-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
           alt="Explore Certificates Achieved"
         />
       </a>
@@ -330,7 +321,7 @@ June 2023 – May 2024
     <td align="right">
       <a href="https://github.com/project-hrishikesh/SAIL_Internship_Project_HA" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://img.shields.io/badge/🔗%20REPOSITORY%20LINK-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
+          src="https://img.shields.io/badge/%20REPOSITORY%20LINK-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
           alt="Repository Link"
         />
       </a>
