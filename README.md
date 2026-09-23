@@ -83,7 +83,7 @@ Currently, I am pursuing an **MBA in Banking & Finance** while continuously deve
 </p>
 
 
-## `💼 Experience :-`
+## 💼 Experience :-
 
 ### Customer Support Executive; [ Full-time ]<br>
 **Concentrix Daksh Services India Pvt. Ltd.**<br>
@@ -109,7 +109,7 @@ June 2023 – May 2024
 </p>
 
 
-## `🛠 Skills :-`
+## 🛠 Skills :-
 
 ![Dashboard](https://img.shields.io/badge/Interactive%20Dashboard-1E40AF?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
@@ -230,7 +230,7 @@ June 2023 – May 2024
 </p>
 
 
-## `📚 Education :-`
+## 📚 Education :-
 <br>
 
 <table width="100%">
@@ -265,7 +265,7 @@ June 2023 – May 2024
 </p>
 
 
-## `📜 Certifications :-`
+## 📜 Certifications :-
 
 <table width="100%">
   <tr>
@@ -288,7 +288,7 @@ June 2023 – May 2024
 </p>
 
 
-## `📊 What I Work With :-`
+## 📊 What I Work With :-
 
 | **AREA** | **SKILLS / WORK** | **APPLICATION** |
 |---|---|---|
@@ -308,7 +308,7 @@ June 2023 – May 2024
 </p>
 
 
-## `🔴 COMPANY / BUSINESS - ORIENTED PROJECTS :-`
+## 🔴 COMPANY / BUSINESS - ORIENTED PROJECTS :-
 
 <p align="center">
   A collection of <strong>real-world, company-oriented data analytics projects</strong>
@@ -344,7 +344,7 @@ June 2023 – May 2024
 </p>
 
 
-## `🌱 Currently Learning :-`
+## 🌱 Currently Learning :-
 
 - Advanced SQL
 - Data Engineering
@@ -359,7 +359,7 @@ June 2023 – May 2024
 
 
 
-## `🪩 Let's Connect 🔗`
+## 🪩 Let's Connect 🔗
 
 ◻️ ![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -378,7 +378,7 @@ June 2023 – May 2024
 </p>
 
 
-## `💡 Quote`
+## 💡 Quote
 
 >**"Turning data into actionable insights that drive smarter decisions and measurable business impact."**
 
