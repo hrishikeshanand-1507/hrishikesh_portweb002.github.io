@@ -201,6 +201,34 @@ June 2023 – May 2024
 
 ## 📚 Education :-
 
+
+<table width="100%">
+  <tr>
+    <th align="left">🎓 Education</th>
+    <th align="left">🏫 Institution</th>
+    <th align="left">📅 Session / Year</th>
+  </tr>
+
+  <tr>
+    <td><strong>Master of Business Administration (MBA)</strong><br><i>Banking & Finance</i></td>
+    <td><strong>Indira Gandhi National Open University (IGNOU)</strong></td>
+    <td>2024 – Pursuing</td>
+  </tr>
+
+  <tr>
+    <td><strong>Bachelor of Commerce (Honours)</strong></td>
+    <td><strong>Binod Bihari Mahto Koyalanchal University (BBMKU)</strong></td>
+    <td>2019 – 2022</td>
+  </tr>
+
+  <tr>
+    <td><strong>Intermediate (Science – Computer Science)</strong></td>
+    <td><strong>S. L. Arya Inter College, Bokaro</strong></td>
+    <td>2019</td>
+  </tr>
+</table>
+
+
 ### 🎓 Master of Business Administration (MBA)
 **Indira Gandhi National Open University (IGNOU)**
 *Banking & Finance* <br>
@@ -272,8 +300,8 @@ Passing Year (2019)
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>Bokaro Steel Plant (BSL), under<br>
-      Steel Authority of India Limited (SAIL)</strong>
+      <h3>Bokaro Steel Plant (BSL), under<br>
+      Steel Authority of India Limited (SAIL)</h3>
     </td>
     <td align="right">
       <a href="https://github.com/project-hrishikesh/SAIL_Internship_Project_HA" target="_blank" rel="noopener noreferrer">
