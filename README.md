@@ -237,7 +237,7 @@ June 2023 – May 2024
   <tr>
     <th align="left">🎓 Education</th>
     <th align="left">🏫 Institution</th>
-    <th align="left">📅 Session/Year</th>
+    <th align="left">📅 Session</th>
   </tr>
 
   <tr>
