@@ -137,14 +137,24 @@ June 2023 – May 2024
 </p>
 
 
+<table width="100%">
+  <tr>
+    <td align="left">🧹 <strong>Data Cleaning</strong></td>
+    <td align="left">📈 <strong>Data Analysis</strong></td>
+  </tr>
 
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- KPI Reporting
+  <tr>
+    <td align="left">📊 <strong>Data Visualization</strong></td>
+    <td align="left">📋 <strong>Dashboard Development</strong></td>
+  </tr>
 
+  <tr>
+    <td align="left">💡 <strong>Business Intelligence</strong></td>
+    <td align="left">🎯 <strong>KPI Reporting</strong></td>
+  </tr>
+</table>
+
+<br>
 
 <hr>
 
@@ -153,19 +163,39 @@ June 2023 – May 2024
   <img src="https://img.shields.io/badge/%E2%96%B6%20MS%20EXCEL-FF2D2D?style=for-the-badge&logo=googlesheets&logoColor=FFFFFF&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
 </p>
 
+<table width="100%">
+  <tr>
+    <td align="left">📊 <strong>Advanced Excel</strong></td>
+    <td align="left">🔄 <strong>Pivot Tables</strong></td>
+  </tr>
 
-- Pivot Tables
-- Pivot Charts
-- Power Query
-- XLOOKUP
-- VLOOKUP
-- HLOOKUP
-- INDEX & MATCH
-- FILTER
-- SORT
-- Conditional Formatting
-- Dashboard Creation
+  <tr>
+    <td align="left">📈 <strong>Pivot Charts</strong></td>
+    <td align="left">⚙️ <strong>Power Query</strong></td>
+  </tr>
 
+  <tr>
+    <td align="left">🔎 <strong>XLOOKUP</strong></td>
+    <td align="left">🔍 <strong>VLOOKUP</strong></td>
+  </tr>
+
+  <tr>
+    <td align="left">↔️ <strong>HLOOKUP</strong></td>
+    <td align="left">🧮 <strong>INDEX & MATCH</strong></td>
+  </tr>
+
+  <tr>
+    <td align="left">🔽 <strong>FILTER</strong></td>
+    <td align="left">↕️ <strong>SORT</strong></td>
+  </tr>
+
+  <tr>
+    <td align="left">🎨 <strong>Conditional Formatting</strong></td>
+    <td align="left">📊 <strong>Dashboard Creation</strong></td>
+  </tr>
+</table>
+
+<br>
 
 <hr>
 
@@ -174,13 +204,14 @@ June 2023 – May 2024
   <img src="https://img.shields.io/badge/%E2%96%B6%20PROGRAMMING%20LANGUAGE-FF2D2D?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
 </p>
 
+<table width="100%">
+  <tr>
+    <td align="left">🐍 <strong>Python</strong> — Pandas, NumPy</td>
+    <td align="left">🐘 <strong>PostgreSQL</strong></td>
+  </tr>
+</table>
 
-- Python
-  - Pandas
-  - NumPy
-- PostgreSQL
-- SQL
-
+<br>
 
 <hr>
 
@@ -190,9 +221,16 @@ June 2023 – May 2024
 </p>
 
 
-- Power BI
-- Microsoft Excel
+<table width="100%">
+  <tr>
+    <td align="left">📊 <strong>Power BI</strong></td>
+    <td align="left">📈 <strong>Microsoft Excel</strong></td>
+  </tr>
+</table>
 
+<br>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:93C5FD,100:2563EB" width="100%">
@@ -212,7 +250,7 @@ June 2023 – May 2024
   <tr>
     <td><strong>Master of Business Administration (MBA)</strong><br><i>Banking & Finance</i></td>
     <td><strong>Indira Gandhi National Open University (IGNOU)</strong></td>
-    <td>2024 – Pursuing</td>
+    <td>2024 – 2026</td>
   </tr>
 
   <tr>
@@ -224,7 +262,7 @@ June 2023 – May 2024
   <tr>
     <td><strong>Intermediate<br>(Science – Computer Science)</strong></td>
     <td><strong>S. L. Arya Inter College,<br>Bokaro</strong></td>
-    <td>2019</td>
+    <td>2018 - 2019</td>
   </tr>
 </table>
 
