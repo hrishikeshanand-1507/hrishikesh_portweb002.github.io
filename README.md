@@ -256,7 +256,7 @@ Passing Year (2019)
 </p>
 
 
-## 🔴 `COMPANY-ORIENTED PROJECTS`
+## 🔴 `COMPANY / BUSINESS - ORIENTED PROJECTS`
 
 <p align="center">
   A collection of <strong>real-world, company-oriented data analytics projects</strong>
@@ -266,13 +266,15 @@ Passing Year (2019)
 </p>
 
 <p align="left">
-  <i>Click the button below to explore my company-oriented projects repository.</i>
+  <i>Click the link buttons mentioned below to explore my company-oriented projects repository.</i>
 </p>
 
+◻️ **Bokaro Steel Plant (BSL), under**<br> **Steel Authority of India Limited (SAIL)**
+
 <p align="left">
- <a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
+ <a href="https://github.com/project-hrishikesh/SAIL_Internship_Project_HA" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
+    src="https://img.shields.io/badge/🔗%20REPOSITORY%20LINK-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
     alt="Explore Certificates Achieved"
   />
 </a>
