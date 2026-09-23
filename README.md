@@ -200,13 +200,13 @@ June 2023 – May 2024
 
 
 ## 📚 Education :-
-
+<br>
 
 <table width="100%">
   <tr>
     <th align="left">🎓 Education</th>
     <th align="left">🏫 Institution</th>
-    <th align="left">📅 Session / Year</th>
+    <th align="left">📅 Session/Year</th>
   </tr>
 
   <tr>
@@ -216,31 +216,17 @@ June 2023 – May 2024
   </tr>
 
   <tr>
-    <td><strong>Bachelor of Commerce (Honours)</strong></td>
-    <td><strong>Binod Bihari Mahto Koyalanchal University (BBMKU)</strong></td>
+    <td><strong>Bachelor of Commerce<br>(Honours)</strong></td>
+    <td><strong>Binod Bihari Mahto Koyalanchal University<br>(BBMKU)</strong></td>
     <td>2019 – 2022</td>
   </tr>
 
   <tr>
-    <td><strong>Intermediate (Science – Computer Science)</strong></td>
-    <td><strong>S. L. Arya Inter College, Bokaro</strong></td>
+    <td><strong>Intermediate<br>(Science – Computer Science)</strong></td>
+    <td><strong>S. L. Arya Inter College,<br>Bokaro</strong></td>
     <td>2019</td>
   </tr>
 </table>
-
-
-### 🎓 Master of Business Administration (MBA)
-**Indira Gandhi National Open University (IGNOU)**
-*Banking & Finance* <br>
-*Session (2024 - Pursuing)*
-
-### 🎓 Bachelor of Commerce (Honours)
-**Binod Bihari Mahto Koyalanchal University (BBMKU)** <br> 
-Passing Session (2019 - 2022)
-
-### 🎓 Intermediate (Science - Computer Science) <br> 
-**S. L. Arya Inter College, Bokaro** <br>
-Passing Year (2019)
 
 
 <p align="center">
