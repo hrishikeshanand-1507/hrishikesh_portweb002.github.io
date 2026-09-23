@@ -60,24 +60,23 @@ Currently, I am pursuing an **MBA in Banking & Finance** while continuously deve
 
 
 
-<h3> 🌐 To visit my Project Documentary Website :- </h3>
-
-<td align="center" width="85%">
-
-<h3>👇🏻Kindly click on the, [🔗 Link Button ] </h3>
-
-</td>
-
-<td align="center" width="40%">
-
-<a href="https://project-hrishikesh.github.io/hrishikesh_project_website/" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/🌐%20EXPLORE%20WEBSITE-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
-    alt="Explore Website"
-  />
-</a>
-
-</td>
+<h2> 🌐 To visit my Project Documentary Website :- </h2>
+<br>
+<table width="100%">
+  <tr>
+    <td align="left" width="65%">
+      <strong>Kindly click on the [🔗 Link Button] 👉🏻</strong>
+    </td>
+    <td align="right" width="35%">
+      <a href="https://project-hrishikesh.github.io/hrishikesh_project_website/" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://img.shields.io/badge/🌐%20EXPLORE%20WEBSITE-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
+          alt="Explore Website"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
@@ -115,22 +114,22 @@ June 2023 – May 2024
 
 ![Dashboard](https://img.shields.io/badge/Interactive%20Dashboard-1E40AF?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgre%20SQL-1B1A55?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgre%20SQL-1B1A55?style=for-the-badge&logo=postgresql&logoColor=white)<br>
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-3C3D37?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-092635?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Ms Excel](https://img.shields.io/badge/Ms%20Excel-005B41?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Ms Excel](https://img.shields.io/badge/Ms%20Excel-005B41?style=for-the-badge&logo=googlesheets&logoColor=white)<br>
 ![Google Sheet](https://img.shields.io/badge/Google%20Sheet-255F38?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI Reports](https://img.shields.io/badge/Power%20BI%20Reports-1E293B?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![KPI Dashboard](https://img.shields.io/badge/〽️%20KPI%20Dashboard-481E14?style=for-the-badge&logoColor=white)
+![KPI Dashboard](https://img.shields.io/badge/〽️%20KPI%20Dashboard-481E14?style=for-the-badge&logoColor=white)<br>
 ![Figma](https://img.shields.io/badge/Figma-BE3144?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-32012F?style=flat-square&logo=github&logoColor=white)
 
+<br>
 
 <hr>
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/%E2%96%B6%20DATA%20ANALYTICS-FF2D2D?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
@@ -157,7 +156,6 @@ June 2023 – May 2024
 <br>
 
 <hr>
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/%E2%96%B6%20MS%20EXCEL-FF2D2D?style=for-the-badge&logo=googlesheets&logoColor=FFFFFF&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
@@ -199,7 +197,6 @@ June 2023 – May 2024
 
 <hr>
 
-
 <p align="left">
   <img src="https://img.shields.io/badge/%E2%96%B6%20PROGRAMMING%20LANGUAGE-FF2D2D?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
 </p>
@@ -215,7 +212,6 @@ June 2023 – May 2024
 
 <hr>
 
-
 <p align="left">
   <img src="https://img.shields.io/badge/%E2%96%A0%20INSIGHTS%20DASHBOARD-FF2D2D?style=for-the-badge&logo=databricks&logoColor=FF2D2D&labelColor=0A0A0A&color=0D47A5" alt="Data Analytics"/>
 </p>
@@ -227,8 +223,6 @@ June 2023 – May 2024
     <td align="left">📈 <strong>Microsoft Excel</strong></td>
   </tr>
 </table>
-
-<br>
 
 <br>
 
@@ -274,14 +268,21 @@ June 2023 – May 2024
 
 # 📜 Certifications :-
 
-<i>Click below to explore my Certificates Achieved repository.</i>
-<br>
-<a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
-    alt="Explore Certificates Achieved"
-  />
-</a>
+<table width="100%">
+  <tr>
+    <td align="left" width="65%">
+      <i><strong>Click to explore my Certificates Achieved repository [🔗 Link Button] 👉🏻</strong></i>
+    </td>
+    <td align="right" width="35%">
+      <a href="YOUR_REPOSITORY_LINK" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://img.shields.io/badge/🪪%20EXPLORE%20CERTIFICATES%20ACHIEVED-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
+          alt="Explore Certificates Achieved"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,100:2563EB" width="100%">
