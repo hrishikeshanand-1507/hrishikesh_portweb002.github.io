@@ -308,7 +308,7 @@ June 2023 – May 2024
 </p>
 
 
-## 🔴 COMPANY / BUSINESS - ORIENTED PROJECTS :-
+## 🔴 COMPANY / BUSINESS ORIENTED PROJECTS;
 
 <p align="center">
   A collection of <strong>real-world, company-oriented data analytics projects</strong>
