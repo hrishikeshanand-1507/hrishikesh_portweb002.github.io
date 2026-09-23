@@ -269,16 +269,22 @@ Passing Year (2019)
   <i>Click the link buttons mentioned below to explore my company-oriented projects repository.</i>
 </p>
 
-◻️ **Bokaro Steel Plant (BSL), under**<br> **Steel Authority of India Limited (SAIL)**
-
-<p align="left">
- <a href="https://github.com/project-hrishikesh/SAIL_Internship_Project_HA" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/🔗%20REPOSITORY%20LINK-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
-    alt="Explore Certificates Achieved"
-  />
-</a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>Bokaro Steel Plant (BSL), under<br>
+      Steel Authority of India Limited (SAIL)</strong>
+    </td>
+    <td align="right">
+      <a href="https://github.com/project-hrishikesh/SAIL_Internship_Project_HA" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://img.shields.io/badge/🔗%20REPOSITORY%20LINK-071A2F?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2F"
+          alt="Repository Link"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
